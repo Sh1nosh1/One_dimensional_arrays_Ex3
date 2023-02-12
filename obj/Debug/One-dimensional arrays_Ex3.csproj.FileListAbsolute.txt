@@ -1,0 +1,8 @@
+D:\ИКТ\One-dimensional arrays_Ex3\bin\Debug\One-dimensional arrays_Ex3.exe.config
+D:\ИКТ\One-dimensional arrays_Ex3\bin\Debug\One-dimensional arrays_Ex3.exe
+D:\ИКТ\One-dimensional arrays_Ex3\bin\Debug\One-dimensional arrays_Ex3.pdb
+D:\ИКТ\One-dimensional arrays_Ex3\obj\Debug\One-dimensional arrays_Ex3.csproj.AssemblyReference.cache
+D:\ИКТ\One-dimensional arrays_Ex3\obj\Debug\One-dimensional arrays_Ex3.csproj.SuggestedBindingRedirects.cache
+D:\ИКТ\One-dimensional arrays_Ex3\obj\Debug\One-dimensional arrays_Ex3.csproj.CoreCompileInputs.cache
+D:\ИКТ\One-dimensional arrays_Ex3\obj\Debug\One-dimensional arrays_Ex3.exe
+D:\ИКТ\One-dimensional arrays_Ex3\obj\Debug\One-dimensional arrays_Ex3.pdb
